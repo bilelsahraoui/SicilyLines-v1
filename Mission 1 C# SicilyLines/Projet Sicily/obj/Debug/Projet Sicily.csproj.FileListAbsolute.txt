@@ -38,3 +38,14 @@ E:\Cours 2021 2022\AP\Projet Sicily\GitHub\projet\Projet Sicily\obj\Debug\Projet
 E:\Cours 2021 2022\AP\Projet Sicily\GitHub\projet\Projet Sicily\obj\Debug\Projet Sicily.exe
 E:\Cours 2021 2022\AP\Projet Sicily\GitHub\projet\Projet Sicily\obj\Debug\Projet Sicily.pdb
 E:\Cours 2021 2022\AP\Projet Sicily\GitHub\projet\Projet Sicily\obj\Debug\Projet Sicily.csproj.AssemblyReference.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\bin\Debug\Projet Sicily.exe.config
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\bin\Debug\Projet Sicily.exe
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\bin\Debug\Projet Sicily.pdb
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\obj\Debug\Projet Sicily.csproj.AssemblyReference.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\obj\Debug\Projet Sicily.csproj.SuggestedBindingRedirects.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\obj\Debug\Projet_Sicily.Form1.resources
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\obj\Debug\Projet_Sicily.Properties.Resources.resources
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\obj\Debug\Projet Sicily.csproj.GenerateResource.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\obj\Debug\Projet Sicily.csproj.CoreCompileInputs.cache
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\obj\Debug\Projet Sicily.exe
+C:\Users\Valen\OneDrive\Documents\GitHub\epreuve-e5-bilel-sahraoui-valentin-royer\Mission 1 c#\Mission 1 C# SicilyLines\Projet Sicily\obj\Debug\Projet Sicily.pdb
